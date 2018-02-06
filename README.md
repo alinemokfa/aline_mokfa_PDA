@@ -18,7 +18,7 @@ Equivalent to HND/ Diploma of Higher Education and suitable for
 those with some previous knowledge of computing, eg an HNC, or a graduate - level
 qualification in a non-STEM area.
 
-###Qualification Structure
+### Qualification Structure
 The qualification is hierarchical in nature. To achieve the PDA Group Award, learners are
 required to pass all three Units within the specified level, they are:
 Software Development: Analysis & Design
@@ -27,7 +27,7 @@ Software Development: Project
 For example, all three Units would need to be completed with a pass at Level 8 to obtain the
 Level 8 Group Award.
 
-###Achieving the PDA qualification ­- Assessment Overview
+### Achieving the PDA qualification ­- Assessment Overview
 CodeClan will provide students on their core course the opportunity to prepare for and
 undertake appropriate assessment activities in order to achieve the Units leading to the Group
 Award. Students will be assigned a designated Assessor who will review their progress at
